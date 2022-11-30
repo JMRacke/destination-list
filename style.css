@@ -1,0 +1,19 @@
+.box-green {
+  border: 5px solid lime;
+}
+
+.box-red {
+  border: 5px solid red;
+}
+
+.box-blue {
+  border: 5px solid blue;
+}
+
+.box-purple {
+  border: 5px solid magenta;
+}
+
+.box-yellow {
+  border: 5px solid yellow;
+}
